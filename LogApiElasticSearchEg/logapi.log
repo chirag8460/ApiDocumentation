@@ -1,0 +1,187 @@
+[INFO ] 2020-08-24 11:39:13.688 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 1964 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-24 11:39:13.693 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-24 11:39:13.694 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 11:39:19.251 [restartedMain] Blog - Started Blog in 6.471 seconds (JVM running for 8.666)
+[DEBUG] 2020-08-24 11:44:57.866 [http-nio-9050-exec-1] LogService - This is a debug messagewebapp.entity.Log@49864dfd
+[INFO ] 2020-08-24 11:44:57.867 [http-nio-9050-exec-1] LogService - This is an info message
+[WARN ] 2020-08-24 11:44:57.867 [http-nio-9050-exec-1] LogService - This is a warn messagewebapp.entity.Log@49864dfd
+[ERROR] 2020-08-24 11:44:57.867 [http-nio-9050-exec-1] LogService - This is an error message
+[FATAL] 2020-08-24 11:44:57.867 [http-nio-9050-exec-1] LogService - This is a fatal messagewebapp.entity.Log@49864dfd
+[INFO ] 2020-08-24 12:20:53.016 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 1964 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-24 12:20:53.017 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-24 12:20:53.017 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 12:20:54.509 [restartedMain] Blog - Started Blog in 1.596 seconds (JVM running for 2503.925)
+[INFO ] 2020-08-24 12:20:57.356 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 1964 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-24 12:20:57.357 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-24 12:20:57.357 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 12:20:58.320 [restartedMain] Blog - Started Blog in 1.051 seconds (JVM running for 2507.735)
+[INFO ] 2020-08-24 12:21:12.656 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 10256 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-24 12:21:12.662 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-24 12:21:12.663 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 12:21:16.266 [restartedMain] Blog - Started Blog in 4.139 seconds (JVM running for 5.614)
+[DEBUG] 2020-08-24 12:21:26.654 [http-nio-9050-exec-1] LogService - This is a debug messagewebapp.entity.Log@1d11b696
+[INFO ] 2020-08-24 12:21:26.655 [http-nio-9050-exec-1] LogService - This is an info message
+[WARN ] 2020-08-24 12:21:26.655 [http-nio-9050-exec-1] LogService - This is a warn messagewebapp.entity.Log@1d11b696
+[ERROR] 2020-08-24 12:21:26.655 [http-nio-9050-exec-1] LogService - This is an error message
+[FATAL] 2020-08-24 12:21:26.655 [http-nio-9050-exec-1] LogService - This is a fatal messagewebapp.entity.Log@1d11b696
+[DEBUG] 2020-08-24 12:37:41.831 [http-nio-9050-exec-3] LogService - This is a debug messagewebapp.entity.Log@44710845
+[INFO ] 2020-08-24 12:37:41.831 [http-nio-9050-exec-3] LogService - This is an info message
+[WARN ] 2020-08-24 12:37:41.831 [http-nio-9050-exec-3] LogService - This is a warn messagewebapp.entity.Log@44710845
+[ERROR] 2020-08-24 12:37:41.831 [http-nio-9050-exec-3] LogService - This is an error message
+[FATAL] 2020-08-24 12:37:41.831 [http-nio-9050-exec-3] LogService - This is a fatal messagewebapp.entity.Log@44710845
+[DEBUG] 2020-08-24 12:42:25.421 [http-nio-9050-exec-5] LogService - This is a debug messagewebapp.entity.Log@3721dc66
+[INFO ] 2020-08-24 12:42:25.421 [http-nio-9050-exec-5] LogService - This is an info message
+[WARN ] 2020-08-24 12:42:25.421 [http-nio-9050-exec-5] LogService - This is a warn messagewebapp.entity.Log@3721dc66
+[ERROR] 2020-08-24 12:42:25.421 [http-nio-9050-exec-5] LogService - This is an error message
+[FATAL] 2020-08-24 12:42:25.421 [http-nio-9050-exec-5] LogService - This is a fatal messagewebapp.entity.Log@3721dc66
+[DEBUG] 2020-08-24 12:43:26.031 [http-nio-9050-exec-7] LogService - This is a debug messagewebapp.entity.Log@454225fe
+[INFO ] 2020-08-24 12:43:26.031 [http-nio-9050-exec-7] LogService - This is an info message
+[WARN ] 2020-08-24 12:43:26.031 [http-nio-9050-exec-7] LogService - This is a warn messagewebapp.entity.Log@454225fe
+[ERROR] 2020-08-24 12:43:26.031 [http-nio-9050-exec-7] LogService - This is an error message
+[FATAL] 2020-08-24 12:43:26.031 [http-nio-9050-exec-7] LogService - This is a fatal messagewebapp.entity.Log@454225fe
+[DEBUG] 2020-08-24 12:44:02.146 [http-nio-9050-exec-8] LogService - This is a debug messagewebapp.entity.Log@25129fc2
+[INFO ] 2020-08-24 12:44:02.146 [http-nio-9050-exec-8] LogService - This is an info message
+[WARN ] 2020-08-24 12:44:02.147 [http-nio-9050-exec-8] LogService - This is a warn messagewebapp.entity.Log@25129fc2
+[ERROR] 2020-08-24 12:44:02.147 [http-nio-9050-exec-8] LogService - This is an error message
+[FATAL] 2020-08-24 12:44:02.147 [http-nio-9050-exec-8] LogService - This is a fatal messagewebapp.entity.Log@25129fc2
+[DEBUG] 2020-08-24 12:47:34.623 [http-nio-9050-exec-10] LogService - This is a debug messagewebapp.entity.Log@5097b357
+[INFO ] 2020-08-24 12:47:34.623 [http-nio-9050-exec-10] LogService - This is an info message
+[WARN ] 2020-08-24 12:47:34.623 [http-nio-9050-exec-10] LogService - This is a warn messagewebapp.entity.Log@5097b357
+[ERROR] 2020-08-24 12:47:34.623 [http-nio-9050-exec-10] LogService - This is an error message
+[FATAL] 2020-08-24 12:47:34.623 [http-nio-9050-exec-10] LogService - This is a fatal messagewebapp.entity.Log@5097b357
+[INFO ] 2020-08-24 12:51:40.262 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 10256 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-24 12:51:40.262 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-24 12:51:40.263 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 12:51:41.593 [restartedMain] Blog - Started Blog in 1.579 seconds (JVM running for 1830.941)
+[INFO ] 2020-08-24 12:51:49.457 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 10256 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-24 12:51:49.460 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-24 12:51:49.460 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 12:51:50.469 [restartedMain] Blog - Started Blog in 1.135 seconds (JVM running for 1839.817)
+[INFO ] 2020-08-24 12:56:15.336 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 10256 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-24 12:56:15.337 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-24 12:56:15.337 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 12:56:16.278 [restartedMain] Blog - Started Blog in 0.999 seconds (JVM running for 2105.626)
+[DEBUG] 2020-08-24 15:01:15.832 [http-nio-9050-exec-1] LogService - This is a debug messagewebapp.entity.Log@3e27b1e6
+[INFO ] 2020-08-24 15:01:15.832 [http-nio-9050-exec-1] LogService - This is an info message
+[WARN ] 2020-08-24 15:01:15.832 [http-nio-9050-exec-1] LogService - This is a warn messagewebapp.entity.Log@3e27b1e6
+[ERROR] 2020-08-24 15:01:15.832 [http-nio-9050-exec-1] LogService - This is an error message
+[FATAL] 2020-08-24 15:01:15.832 [http-nio-9050-exec-1] LogService - This is a fatal messagewebapp.entity.Log@3e27b1e6
+[INFO ] 2020-08-24 15:27:28.086 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 10256 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-24 15:27:28.087 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-24 15:27:28.087 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 15:27:28.857 [restartedMain] Blog - Started Blog in 0.835 seconds (JVM running for 11178.21)
+[INFO ] 2020-08-25 10:47:08.197 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 12400 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-25 10:47:08.202 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-25 10:47:08.203 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-25 10:47:15.883 [restartedMain] Blog - Started Blog in 8.186 seconds (JVM running for 10.298)
+[DEBUG] 2020-08-25 10:48:13.013 [http-nio-9050-exec-1] LogService - This is a debug messagewebapp.entity.Log@1e0ab23d
+[INFO ] 2020-08-25 10:48:13.014 [http-nio-9050-exec-1] LogService - This is an info message
+[WARN ] 2020-08-25 10:48:13.014 [http-nio-9050-exec-1] LogService - This is a warn messagewebapp.entity.Log@1e0ab23d
+[ERROR] 2020-08-25 10:48:13.014 [http-nio-9050-exec-1] LogService - This is an error message
+[FATAL] 2020-08-25 10:48:13.014 [http-nio-9050-exec-1] LogService - This is a fatal messagewebapp.entity.Log@1e0ab23d
+[DEBUG] 2020-08-25 10:50:34.000 [http-nio-9050-exec-3] LogService - This is a debug messagewebapp.entity.Log@471b5056
+[INFO ] 2020-08-25 10:50:34.000 [http-nio-9050-exec-3] LogService - This is an info message
+[WARN ] 2020-08-25 10:50:34.000 [http-nio-9050-exec-3] LogService - This is a warn messagewebapp.entity.Log@471b5056
+[ERROR] 2020-08-25 10:50:34.000 [http-nio-9050-exec-3] LogService - This is an error message
+[FATAL] 2020-08-25 10:50:34.000 [http-nio-9050-exec-3] LogService - This is a fatal messagewebapp.entity.Log@471b5056
+[INFO ] 2020-08-25 12:04:05.995 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 12400 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-08-25 12:04:05.995 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-08-25 12:04:05.996 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-25 12:04:06.989 [restartedMain] Blog - Started Blog in 1.07 seconds (JVM running for 4621.415)
+[INFO ] 2020-09-06 21:03:47.386 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 12880 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-09-06 21:03:47.391 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-09-06 21:03:47.392 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-06 21:03:52.250 [restartedMain] Blog - Started Blog in 5.404 seconds (JVM running for 7.487)
+[INFO ] 2020-09-06 21:05:54.728 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 12880 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-09-06 21:05:54.729 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-09-06 21:05:54.729 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-06 21:05:55.542 [restartedMain] Blog - Started Blog in 0.862 seconds (JVM running for 130.779)
+[INFO ] 2020-09-06 21:06:02.332 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 14208 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-09-06 21:06:02.337 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-09-06 21:06:02.338 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-06 21:06:06.535 [restartedMain] Blog - Started Blog in 4.72 seconds (JVM running for 6.518)
+[DEBUG] 2020-09-06 21:07:30.265 [http-nio-9050-exec-1] LogService - This is a debug messagewebapp.entity.Log@7e6a4508
+[INFO ] 2020-09-06 21:07:30.265 [http-nio-9050-exec-1] LogService - This is an info message
+[WARN ] 2020-09-06 21:07:30.265 [http-nio-9050-exec-1] LogService - This is a warn messagewebapp.entity.Log@7e6a4508
+[ERROR] 2020-09-06 21:07:30.265 [http-nio-9050-exec-1] LogService - This is an error message
+[FATAL] 2020-09-06 21:07:30.266 [http-nio-9050-exec-1] LogService - This is a fatal messagewebapp.entity.Log@7e6a4508
+[DEBUG] 2020-09-06 21:07:31.896 [http-nio-9050-exec-2] LogService - This is a debug messagewebapp.entity.Log@344779c9
+[INFO ] 2020-09-06 21:07:31.896 [http-nio-9050-exec-2] LogService - This is an info message
+[WARN ] 2020-09-06 21:07:31.896 [http-nio-9050-exec-2] LogService - This is a warn messagewebapp.entity.Log@344779c9
+[ERROR] 2020-09-06 21:07:31.896 [http-nio-9050-exec-2] LogService - This is an error message
+[FATAL] 2020-09-06 21:07:31.896 [http-nio-9050-exec-2] LogService - This is a fatal messagewebapp.entity.Log@344779c9
+[DEBUG] 2020-09-06 21:07:33.077 [http-nio-9050-exec-3] LogService - This is a debug messagewebapp.entity.Log@3721dc66
+[INFO ] 2020-09-06 21:07:33.077 [http-nio-9050-exec-3] LogService - This is an info message
+[WARN ] 2020-09-06 21:07:33.077 [http-nio-9050-exec-3] LogService - This is a warn messagewebapp.entity.Log@3721dc66
+[ERROR] 2020-09-06 21:07:33.077 [http-nio-9050-exec-3] LogService - This is an error message
+[FATAL] 2020-09-06 21:07:33.077 [http-nio-9050-exec-3] LogService - This is a fatal messagewebapp.entity.Log@3721dc66
+[DEBUG] 2020-09-06 21:07:34.019 [http-nio-9050-exec-4] LogService - This is a debug messagewebapp.entity.Log@6bb71235
+[INFO ] 2020-09-06 21:07:34.019 [http-nio-9050-exec-4] LogService - This is an info message
+[WARN ] 2020-09-06 21:07:34.019 [http-nio-9050-exec-4] LogService - This is a warn messagewebapp.entity.Log@6bb71235
+[ERROR] 2020-09-06 21:07:34.019 [http-nio-9050-exec-4] LogService - This is an error message
+[FATAL] 2020-09-06 21:07:34.019 [http-nio-9050-exec-4] LogService - This is a fatal messagewebapp.entity.Log@6bb71235
+[DEBUG] 2020-09-06 21:07:35.202 [http-nio-9050-exec-5] LogService - This is a debug messagewebapp.entity.Log@454225fe
+[INFO ] 2020-09-06 21:07:35.203 [http-nio-9050-exec-5] LogService - This is an info message
+[WARN ] 2020-09-06 21:07:35.203 [http-nio-9050-exec-5] LogService - This is a warn messagewebapp.entity.Log@454225fe
+[ERROR] 2020-09-06 21:07:35.203 [http-nio-9050-exec-5] LogService - This is an error message
+[FATAL] 2020-09-06 21:07:35.203 [http-nio-9050-exec-5] LogService - This is a fatal messagewebapp.entity.Log@454225fe
+[DEBUG] 2020-09-06 21:07:36.819 [http-nio-9050-exec-6] LogService - This is a debug messagewebapp.entity.Log@25129fc2
+[INFO ] 2020-09-06 21:07:36.819 [http-nio-9050-exec-6] LogService - This is an info message
+[WARN ] 2020-09-06 21:07:36.819 [http-nio-9050-exec-6] LogService - This is a warn messagewebapp.entity.Log@25129fc2
+[ERROR] 2020-09-06 21:07:36.819 [http-nio-9050-exec-6] LogService - This is an error message
+[FATAL] 2020-09-06 21:07:36.819 [http-nio-9050-exec-6] LogService - This is a fatal messagewebapp.entity.Log@25129fc2
+[DEBUG] 2020-09-06 21:30:22.347 [http-nio-9050-exec-8] LogService - This is a debug messagewebapp.entity.Log@5097b357
+[INFO ] 2020-09-06 21:30:22.348 [http-nio-9050-exec-8] LogService - This is an info message
+[WARN ] 2020-09-06 21:30:22.348 [http-nio-9050-exec-8] LogService - This is a warn messagewebapp.entity.Log@5097b357
+[ERROR] 2020-09-06 21:30:22.348 [http-nio-9050-exec-8] LogService - This is an error message
+[FATAL] 2020-09-06 21:30:22.348 [http-nio-9050-exec-8] LogService - This is a fatal messagewebapp.entity.Log@5097b357
+[INFO ] 2020-09-06 21:52:05.648 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 5952 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-09-06 21:52:05.685 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-09-06 21:52:05.686 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-06 21:52:13.309 [restartedMain] Blog - Started Blog in 8.57 seconds (JVM running for 11.641)
+[DEBUG] 2020-09-06 21:54:22.633 [http-nio-9050-exec-1] LogService - This is a debug messagewebapp.entity.Log@368605b
+[INFO ] 2020-09-06 21:54:22.633 [http-nio-9050-exec-1] LogService - This is an info message
+[WARN ] 2020-09-06 21:54:22.633 [http-nio-9050-exec-1] LogService - This is a warn messagewebapp.entity.Log@368605b
+[ERROR] 2020-09-06 21:54:22.633 [http-nio-9050-exec-1] LogService - This is an error message
+[FATAL] 2020-09-06 21:54:22.633 [http-nio-9050-exec-1] LogService - This is a fatal messagewebapp.entity.Log@368605b
+[DEBUG] 2020-09-06 21:56:18.767 [http-nio-9050-exec-3] LogService - This is a debug messagewebapp.entity.Log@2294152e
+[INFO ] 2020-09-06 21:56:18.767 [http-nio-9050-exec-3] LogService - This is an info message
+[WARN ] 2020-09-06 21:56:18.767 [http-nio-9050-exec-3] LogService - This is a warn messagewebapp.entity.Log@2294152e
+[ERROR] 2020-09-06 21:56:18.767 [http-nio-9050-exec-3] LogService - This is an error message
+[FATAL] 2020-09-06 21:56:18.767 [http-nio-9050-exec-3] LogService - This is a fatal messagewebapp.entity.Log@2294152e
+[INFO ] 2020-09-07 11:11:25.251 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 9240 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-09-07 11:11:25.270 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-09-07 11:11:25.282 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-07 11:11:35.261 [restartedMain] Blog - Started Blog in 11.806 seconds (JVM running for 19.267)
+[DEBUG] 2020-09-07 12:34:51.263 [http-nio-9050-exec-1] LogService - This is a debug messagewebapp.entity.Log@1bb8a51c
+[INFO ] 2020-09-07 12:34:51.264 [http-nio-9050-exec-1] LogService - This is an info message
+[WARN ] 2020-09-07 12:34:51.264 [http-nio-9050-exec-1] LogService - This is a warn messagewebapp.entity.Log@1bb8a51c
+[ERROR] 2020-09-07 12:34:51.264 [http-nio-9050-exec-1] LogService - This is an error message
+[FATAL] 2020-09-07 12:34:51.264 [http-nio-9050-exec-1] LogService - This is a fatal messagewebapp.entity.Log@1bb8a51c
+[INFO ] 2020-09-07 20:25:32.617 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 4248 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-09-07 20:25:32.653 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-09-07 20:25:32.656 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-07 20:25:47.864 [restartedMain] Blog - Started Blog in 17.426 seconds (JVM running for 23.479)
+[DEBUG] 2020-09-07 21:06:03.383 [http-nio-9050-exec-1] LogService - This is a debug messagewebapp.entity.Log@4e7f0a7
+[INFO ] 2020-09-07 21:06:03.383 [http-nio-9050-exec-1] LogService - This is an info message
+[WARN ] 2020-09-07 21:06:03.383 [http-nio-9050-exec-1] LogService - This is a warn messagewebapp.entity.Log@4e7f0a7
+[ERROR] 2020-09-07 21:06:03.383 [http-nio-9050-exec-1] LogService - This is an error message
+[FATAL] 2020-09-07 21:06:03.383 [http-nio-9050-exec-1] LogService - This is a fatal messagewebapp.entity.Log@4e7f0a7
+[DEBUG] 2020-09-07 21:12:25.209 [http-nio-9050-exec-2] LogService - This is a debug messagewebapp.entity.Log@1dbf60ca
+[INFO ] 2020-09-07 21:12:25.209 [http-nio-9050-exec-2] LogService - This is an info message
+[WARN ] 2020-09-07 21:12:25.209 [http-nio-9050-exec-2] LogService - This is a warn messagewebapp.entity.Log@1dbf60ca
+[ERROR] 2020-09-07 21:12:25.209 [http-nio-9050-exec-2] LogService - This is an error message
+[FATAL] 2020-09-07 21:12:25.209 [http-nio-9050-exec-2] LogService - This is a fatal messagewebapp.entity.Log@1dbf60ca
+[INFO ] 2020-09-10 14:10:37.853 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 1152 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-09-10 14:10:37.859 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-09-10 14:10:37.860 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-10 14:10:44.185 [restartedMain] Blog - Started Blog in 6.931 seconds (JVM running for 9.891)
+[INFO ] 2020-10-12 15:11:04.294 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 6112 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-10-12 15:11:04.301 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-10-12 15:11:04.302 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-10-12 15:11:11.170 [restartedMain] Blog - Started Blog in 8.021 seconds (JVM running for 11.929)
+[INFO ] 2020-10-12 15:12:35.312 [restartedMain] Blog - Starting Blog on DESKTOP-E673FJB with PID 6112 (C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg\target\classes started by chirag in C:\WorkSoftware\springWorkspace\Spring-workspace\LogApiElasticSearchEg)
+[DEBUG] 2020-10-12 15:12:35.313 [restartedMain] Blog - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2020-10-12 15:12:35.313 [restartedMain] Blog - No active profile set, falling back to default profiles: default
+[INFO ] 2020-10-12 15:12:36.327 [restartedMain] Blog - Started Blog in 1.116 seconds (JVM running for 97.086)
+[DEBUG] 2020-10-12 15:16:29.101 [http-nio-9050-exec-1] LogService - Logs savedwebapp.entity.Log@d2f150a

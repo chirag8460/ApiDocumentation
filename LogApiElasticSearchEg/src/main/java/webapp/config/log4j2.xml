@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <Http name="Http" url="http://localhost:9200/applogs/_doc">
+            <Property name="Content-Type" value="application/json" />
+            <PatternLayout pattern='{"date":%d{ISO8601},"thread":"[%t]","level":"%-5level","logger":"%logger{36}","message":"%msg"}' />
+        </Http>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Http" />
+        </Root>
+    </Loggers>
+</Configuration>

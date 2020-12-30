@@ -1,0 +1,8 @@
+2020-10-21T12:49:37.263+0530 INFO data={"firstname":"bob","lastname":"the builder"}
+
+2020-10-21T12:49:37.263+0530 INFO Who: sachin@mobiuso.com
+2020-10-21T12:49:37.263+0530 INFO Action: PUT
+2020-10-21T12:49:37.263+0530 INFO Route: /v1/uiLayouts/70b48ce6-5af9-476a-9174-3e5fce685951
+2020-10-21T12:49:37.263+0530 INFO What: Updated UI Layout
+2020-10-21T12:49:37.263+0530 INFO Before Action: UILayout(id=70b48ce6-5af9-476a-9174-3e5fce685951, name=Get Access, description=UI-Layout for Get Access applications, gridShape=TWO_BY_TWO, homeScreenTileType=ROUNDED_CORNERS, uiLayoutBundleUrl=https://s3.pim.com/default.zip)
+2020-10-21T12:49:37.459+0530 INFO After Action: UILayout(id=70b48ce6-5af9-476a-9174-3e5fce685951, name=Get Access, description=UI-Layout for Get Access applications, gridShape=TWO_BY_TWO, homeScreenTileType=ROUNDED_CORNERS, uiLayoutBundleUrl=https://s3.pim.com/default.zip)
